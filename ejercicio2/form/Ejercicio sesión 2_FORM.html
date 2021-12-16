@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- 
+Open BootCamp 2021- HTML +CSS
+[Giuseppe Allocca] aka Pino ;)
+
+Ejercicio sesión 2 Form
+Crea un formulario en el que haya 
+que introducir los siguientes datos: 
+
+· Nombre
+· Apellido
+· e-mail 
+· teléfono 
+· dirección
+
+
+Como segunda parte del ejercicio 
+deberás crear una tabla, esta tabla 
+tendrá :
+· 4 columnas
+· 4 filas, 
+
+en esta tabla deberás hacer que:
+
+· Una de las celdas ocupe dos columnas.
+
+· Una de las celdas ocupe dos filas.
+
+ -->
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" sizes="17x20" href="./favicoob.jpg" type="image/jpg">
+  <link rel="stylesheet" type="text/css" href="Ejercicio sesión 2.css" />
+  <title>Ejercicio sesión 2</title>
+</head>
+
+<body>
+ <div class="container_form">	
+   <form id="formulario1" class="formulario1" action="recibeform.html" method="post">
+  <h2> Open Boot Camp Form</h2>
+  <fieldset>  
+ 
+  <legend> Ejercicio formulario HTML </legend>
+  <br>
+    <div>
+      <input id="formulario1_nombre" name="nombre" pattern="[A-Za-z]+" required type="text"  placeholder="Aquí tu nombre">
+    </div>
+    <div>
+      <br>
+      <input id="formulario1_apellido" name="apellido" pattern="[A-Za-z]+" required type="text"  placeholder="Aquí tu apellido">
+      <br><br>
+	  <div>
+      <input id="formulario1_email" name="email" required type="mail"  placeholder="Aquí tu e-mail">
+    </div>
+      </div>
+      <br><br> <input type="submit" value="Enviar"  class="submit"><br><br>
+
+ 
+  </fieldset> 
+  </form>
+        </div>
+  
+</body>
+
+</html>
