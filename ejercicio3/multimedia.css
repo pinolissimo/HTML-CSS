@@ -1,0 +1,29 @@
+/*Open BootCamp 2021- HTML +CSS
+[Giuseppe Allocca] aka Pino ;)
+
+Ejercicio sesión 3 Multimedia*/
+.container{
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width:1350px;
+  height: 675px;
+  position: relative;
+  background-image: url("image.jpg") ;
+}
+.tv{
+  position: relative;
+  margin-top: -610px;
+  margin-left: 382px;
+}
+
+.audiocontainer{
+  position: relative;
+  margin-top: 70px;
+  margin-left: 605px;
+}
+
+audio{
+  width: 148px;
+   height: 25px;
+}
