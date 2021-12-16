@@ -1,0 +1,40 @@
+/*
+Open BootCamp 2021- HTML +CSS
+[Giuseppe Allocca] aka Pino ;)
+
+Ejercicio sesión 2 Table
+*/
+table {
+  width: 80%;
+  height: 80%;
+  background-color: lightgrey;
+  color: #000000;
+  border-color: darkgrey;
+  border-radius: 10px;
+ }
+
+th, td {
+  text-align: center;
+  border-color: darkgrey;
+  border-radius: 10px;
+  background-color: white;
+  width: 25%;
+  height: 35%
+}
+th{
+  background-color: yellow;
+}
+
+div {
+padding: 15%;
+  width: 70%;
+  height: 90%;
+  align-items: center;
+  border-top: 100px;
+  text-align: center;
+}
+
+h5{
+  padding-right: 11%;
+  text-align: right;
+}
