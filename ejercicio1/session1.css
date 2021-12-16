@@ -1,0 +1,67 @@
+/* 
+Open BootCamp 2021
+[Giuseppe Allocca] aka Pino ;)
+HTML +CSS
+Ejercicio sesión 1
+*/
+h1 {
+  text-align: center;
+  color: white;
+  background-color: blue;
+}
+
+h2 {
+  text-align: center;
+  color: GrayText;
+  background-color: yellow;
+}
+
+p {
+  text-align: justify;
+  color: white;
+  background: GrayText;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #000000;
+
+
+}
+
+div.container_main {
+  vertical-align: center;
+  padding 10px;
+  text-align: center;
+  background: green;
+}
+
+div.container1 {
+  padding 1%;
+
+  width: 49%;
+  display: inline-block;
+  margin: 1%;
+  background: orange;
+}
+
+div.container2 {
+  border: 1px solid #000000;
+  padding 1%;
+  width: 20%;
+  display: inline-block;
+  margin: 1%;
+  text-align: left;
+  background: red;
+}
+
+div.container3 {
+  border: 1px solid #000000;
+  padding 1%;
+  width: 20%;
+  display: inline-block;
+  margin: 1%;
+  text-align: left;
+  background: tomato;
+}
+
+a {color: black;
+}
