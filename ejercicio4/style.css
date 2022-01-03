@@ -1,0 +1,27 @@
+/*
+Open BootCamp 2021- HTML +CSS
+[Giuseppe Allocca] aka Pino ;)
+Ejercicio sesión 4 CSS
+*/
+
+*{
+  color: red;
+  padding: 10px;
+  font-size: 17px;
+}
+
+div{
+width: 80%;
+margin-left: 8%;
+margin-right: 5%;
+margin-top: 1%;
+text-align: justify;
+}
+
+.miparrafo{
+font-style: italic;
+}
+
+body{
+  background-color: black;
+}
