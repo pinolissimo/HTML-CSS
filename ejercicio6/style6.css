@@ -1,0 +1,78 @@
+/*
+ Open Bootcamp 2021
+       Giuseppe Allocca aka Pino ;)
+       HTML y CSS Ejercicio sesión 6
+*/
+
+.caja{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.imagine {
+    width: 100%;
+    }
+
+div.elemento1{
+    float: left;
+    width: 60%;
+    min-width: 565px;
+    position: absolute;
+    margin-top: -70%;
+    margin-left:10%;
+    margin-right:40%;       
+    }
+
+    p{ 
+    background-color:yellow;
+    color:blue;
+    width: 50%;
+    min-width: 300px;
+    margin: 2%;
+    height: 100;
+    padding:20px;
+    text-align: justify;
+    border: 1px black solid;
+   }
+
+p.miparrafo{
+    background-color:red;
+    color:white;
+    width: 50%;
+    min-width: 300px;
+    margin: 2%;
+    height: 100;
+    padding:20px;
+    text-align: justify;
+    border: 1px black solid;
+     }
+
+ .div2{
+    width: 100%;
+ }
+
+.div2 p.miparrafo{
+    background-color:green;
+    color:#E856A9;
+    width: 50%;
+    min-width: 300px;
+    margin: 2%;
+    height: 100;
+    padding:20px;
+    text-align: justify;
+    border: 1px black solid;
+   }
+
+   .div3 p.miparrafo{
+    background-color:rgb(2, 0, 128);
+    color:#e87856;
+    width: 50%;
+    min-width: 300px;
+    margin: 2%;
+    height: 100;
+    padding:20px;
+    text-align: justify;
+    border: 1px black solid;
+   }
+   
