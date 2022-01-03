@@ -1,0 +1,129 @@
+/*
+ Open Bootcamp 2021
+       Giuseppe Allocca aka Pino ;)
+       HTML y CSS Ejercicio 7
+*/
+
+body {
+	background-image: url(./image.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.caja {
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 25%;
+}
+.divform {
+	width: 350px;
+	min-width: 350px;
+	margin: 0 auto;
+	height: 100%;
+}
+.form1 {
+	width: fit-content;
+	margin: 0 auto;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 160%;
+	padding: 30px;
+	outline: 0;
+	letter-spacing: 0.005em;
+	font-feature-settings: 'pnum' on, 'lnum' on;
+	color: #000000;
+	border: 1px solid #ccc;
+	border-radius: 20px;
+	box-shadow: 2px 2px 3px #666;
+	background-color: #FFFFFF;
+}
+input[type="email"] {
+	margin-bottom: 30px;
+	width: 96%;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 160%;
+	padding: 17px;
+	outline: 0;
+	letter-spacing: 0.005em;
+	font-feature-settings: 'pnum' on, 'lnum' on;
+	color: #000000;
+	border: 1px solid #ccc;
+	border-radius: 20px;
+	box-shadow: 2px 2px 3px #666;
+}
+input[type="password"] {
+	margin-bottom: 30px;
+	width: auto;
+	height: 150%;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 160%;
+	padding: 17px;
+	outline: 0;
+	letter-spacing: 0.005em;
+	font-feature-settings: 'pnum' on, 'lnum' on;
+	color: #000000;
+	border: 1px solid #ccc;
+	border-radius: 20px;
+	box-shadow: 2px 2px 3px #666;
+}
+input[type="submit"] {
+	text-align: center;
+	margin-top: 30px;
+	width: content;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 160%;
+	padding: 4px 7px;
+	outline: 0;
+	letter-spacing: 0.005em;
+	font-feature-settings: 'pnum' on, 'lnum' on;
+	color: white;
+	border: 1px solid #ccc;
+	border-radius: 20px;
+	box-shadow: 2px 2px 3px #666;
+}
+.iniciar,
+.condition,
+.email,
+.password {
+	text-align: center;
+}
+[for="email"] {
+	text-align: left;
+	margin-left: 20px;
+}
+[for="password"] {
+	margin-left: 20px;
+}
+input#email {
+	background-image: url(./mail.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 8%;
+	padding-left: 50px;
+	width: -webkit-fill-available;
+	background-position-x: 10px;
+}
+input#password {
+	background-image: url(./password.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 8%;
+	background-position-x: 10px;
+	padding-left: 50px;
+	width: -webkit-fill-available;
+}
+   

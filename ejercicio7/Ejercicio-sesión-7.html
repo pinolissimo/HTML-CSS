@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!--
+       Open Bootcamp 2021
+       Giuseppe Allocca aka Pino ;)
+       HTML y CSS Ejercicio sesión 7
+       En este ejercicio deberéis crear una página con un formulario de inicio de sesión, 
+       está pagina tendrá:
+                        - Una imagen de fondo.
+                        - Un formulario de inicio de sesión.
+                        - mail y contraseña. 
+                        - un recuadro seleccionable de "Acepto términos y condiciones" 
+                        - un botón de enviar.
+                        - Validación de campos.
+
+    -->
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    <title>Ejercicio sesión 7</title>
+    <link rel="stylesheet" href="style7.css">
+  </head>
+  <body>
+    <div class="caja">
+      <div class="divform">
+        <form action="" class="form1">
+          <label for="email">Email:</label>
+          <div class="email">
+            <input type="email" id="email" name="email" placeholder="your email address" value="">
+          </div>
+          <label for="password">Contraseña:</label>
+          <div class="password">
+            <input type="password" id="password" name="password" placeholder="your password" value="">
+          </div>
+          <div class="condition">
+            <input type="radio" id="ratio" name="ratio" placeholder="Acepto términos y condiciones" required>
+            <label for="radio">Acepto términos y condiciones</label>
+          </div>
+          <div class="iniciar">
+            <input type="submit" value="Iniciar Sesión" style="background-color:#32D4A4">
+          </div>
+        </form>
+      </div>
+      <!--  divform -->
+    </div>
+  </body>
+</html>
