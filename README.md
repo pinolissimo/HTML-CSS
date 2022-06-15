@@ -5,7 +5,9 @@
 
 <h3 align="center">IT Technician / IoT Maker / Full-Stack Developer in training at Open Bootcamp</h3>
 <p align="justify">
-Since I was a child I have always been in love with technology. Over the past 20 years, I have balanced my passion between Hardware and Software. I am fascinated by the Internet of Things, prototyping, Cloud technology, Front, and Back-end development. I have a natural predisposition to problem solving, analytical mind, and I am always curious to learn new things.Over the years I have gained excellent experience in managing users and technical issues. </p>
+Since I was a child I have always been in love with technology. Over the past 20 years, I have balanced my passion between Hardware and Software. I am fascinated by the Internet of Things, prototyping, Cloud technology, Front, and Back-end development. I have a natural predisposition to problem solving, analytical mind, and I am always curious to learn new things.Over the years I have gained excellent experience in managing users and technical issues. 
+</p>
+
 <p align="justify">
 My skills in applied electronics and new technologies allow me to manage technical support completely and efficiently.I strongly believe that the passion for what we do determines the result of our work. I love my job , providing technical support to users and solving their technical issues makes me satisfied. The smile of the people I have helped motivates me to move forward in my work and always try to improve myself,as a person and as a professional. I am currently a student at OpenBootCamp (starting October 2021)in order to obtain certifications as a Full Stack Developer.</p>
 
