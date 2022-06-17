@@ -1,9 +1,9 @@
 <p align="center">
 <img src="https://github.com/pinolissimo/IMG/blob/6a7ca6c8791c5196ff6ca0aaf99191ccd3fa04f6/GITHUB-HTML.png" width="100%" height="100%" alt="JAVA" />
 
-<h1 align="center">Hi 👋 My name is GIUSEPPE ALLOCCA</h1>
+<h2 align="center">Hi 👋 My name is GIUSEPPE ALLOCCA</h2>
 
-<h3 align="center">IT Technician / IoT Maker / Full-Stack Developer in training at Open Bootcamp</h3>
+<h4 align="center">IT Technician / IoT Maker / Full-Stack Developer in training at Open Bootcamp</h4>
 <p align="justify">
 Since I was a child I have always been in love with technology. Over the past 20 years, I have balanced my passion between Hardware and Software. I am fascinated by the Internet of Things, prototyping, Cloud technology, Front, and Back-end development. I have a natural predisposition to problem solving, analytical mind, and I am always curious to learn new things.Over the years I have gained excellent experience in managing users and technical issues. 
 </p>
